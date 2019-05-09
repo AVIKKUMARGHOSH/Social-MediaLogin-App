@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Social Media Login</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">vkC0m0TSMWBeFOQYoWUMkfblg</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">VVOTe90GEZHByflnRJVuQv2aTack0mbMi2x4ce9tnDSRbl6YX9</string>
+</resources>
